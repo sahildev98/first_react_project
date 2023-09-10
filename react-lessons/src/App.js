@@ -6,9 +6,9 @@ function App() {
     <div className="App">
       <header className="App-header">
         <nav>
-          <li>Projects</li>
-          <li>About</li>
-          <li>Contact</li>
+          <li><a href='Projects.html'>Projects</a></li>
+          <li><a href='about.html'>About</a></li>
+          <li><a href='Projects.html'>Contact</a></li>
         </nav>
       </header>
     </div>
