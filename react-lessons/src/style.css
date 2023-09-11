@@ -21,10 +21,9 @@ code {
   min-height: 20vh;
   font-size: calc(10px + 2vmin);
   color: white;
-}
-
-.App-link {
-  color: #61dafb;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
 }
 
 @keyframes App-logo-spin {
