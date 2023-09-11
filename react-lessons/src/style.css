@@ -26,6 +26,14 @@ code {
   align-items: center;
 }
 
+.nav ul{
+  list-style: none;
+}
+
+.nav a{
+  text-decoration: none;
+}
+
 @keyframes App-logo-spin {
   from {
     transform: rotate(0deg);
