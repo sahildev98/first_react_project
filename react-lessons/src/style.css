@@ -27,7 +27,7 @@ code {
   font-size: calc(10px + 2vmin);
   color: white;
   display: flex;
-  justify-content: space-between;
+  justify-content: center;
   align-items: center;
   padding: 0 1rem;
 }
@@ -39,6 +39,7 @@ code {
 }
 .nav a{
   text-decoration: none;
+  color: aqua;
 }
 
 @keyframes App-logo-spin {
