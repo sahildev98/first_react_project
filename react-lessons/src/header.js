@@ -1,3 +1,3 @@
 export default function header(){
-    return <h1>SA clothing</h1>
+    return <h1 className="header">SA clothing</h1>
 } 

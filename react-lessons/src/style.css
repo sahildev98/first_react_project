@@ -16,6 +16,11 @@ code {
     monospace;
 }
 
+.header{
+  background-color: #282c34;
+  color: white;
+}
+
 .nav {
   background-color: #282c34;
   min-height: 20vh;
