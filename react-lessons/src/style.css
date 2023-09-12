@@ -16,15 +16,24 @@ code {
     monospace;
 }
 
-.App-header {
+.nav {
   background-color: #282c34;
-  min-height: 100vh;
+  min-height: 20vh;
   font-size: calc(10px + 2vmin);
   color: white;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 0 1rem;
 }
 
-.App-link {
-  color: #61dafb;
+.nav ul{
+  list-style: none;
+  display: flex;
+  gap:2rem;
+}
+.nav a{
+  text-decoration: none;
 }
 
 @keyframes App-logo-spin {
